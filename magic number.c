@@ -1,4 +1,5 @@
-//this is github pull request
+
+//github edit
 #include<stdio.h>
 int calculate();
 void main()
